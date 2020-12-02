@@ -1,0 +1,16 @@
+[
+
+    {  "brand":"Samsung",
+        "name":"GALAXY NOTE 20 ULTRA",
+        "price":"12999"
+    },
+    {"brand":"Apple",
+      "name":"İphone 11 Pro Max",
+      "price":"16349"
+
+    },
+    {"brand":"HUAWEI",
+     "name":"P40 PRO",
+     "price":"9462"
+    }
+]
